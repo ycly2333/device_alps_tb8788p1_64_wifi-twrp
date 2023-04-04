@@ -1,0 +1,3 @@
+add_lunch_combo twrp_tb8788p1_64_wifi-user
+add_lunch_combo twrp_tb8788p1_64_wifi-userdebug
+add_lunch_combo twrp_tb8788p1_64_wifi-eng
